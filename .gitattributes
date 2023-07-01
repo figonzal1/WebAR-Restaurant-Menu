@@ -1,0 +1,6 @@
+# Apply override to all files in the directory
+Assets/WebGLTemplates/** linguist-vendored
+Assets/TextMesh[[:space:]]Pro/** linguist-vendored
+Assets/Imagine/** linguist-vendored
+Packages/** linguist-vendored
+ProjectSettings/** linguist-vendored
